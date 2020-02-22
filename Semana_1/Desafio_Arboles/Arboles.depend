@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1582227918 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\arboles\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1582228243 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones/versiones.h"
+
+1582227757 c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\arboles\funciones\funciones.h
+
+1582228031 c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\arboles\funciones\versiones.h
+
+1582227918 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\arboles\funciones\versiones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1582228429 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\funciones\saludo.c
+	<stdio.h>
+
+1582228515 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\funciones\versiones.c
+	<stdio.h>
+
+1582228517 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\funciones\yeyecoa.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1582228608 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones/versiones.h"
+	"Funciones/saludo.h"
+	"Funciones/yeyecoa.h"
+
+1582228574 c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\funciones\versiones.h
+
+1582228427 c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\funciones\saludo.h
+
+1582228555 c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\desafio_arboles\funciones\yeyecoa.h
+

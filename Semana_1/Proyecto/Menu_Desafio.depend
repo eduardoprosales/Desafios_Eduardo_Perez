@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582226113 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\proyecto\desafio_1\func1.c
+	<stdio.h>
+
+1582225724 source:c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\proyecto\main.c
+	<stdio.h>
+	"Desafio_1\func1.h"
+
+1582225995 c:\users\lalo\google drive\mac\semestre ii\programacion ii\desafios_eduardo_perez\semana_1\proyecto\desafio_1\func1.h
+
